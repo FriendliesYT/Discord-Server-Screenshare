@@ -12,4 +12,4 @@ serverscreensharePlugin.prototype.getName = function () {return "	󠁡󠀮 	󠁡
 serverscreensharePlugin.prototype.getDescription = function () {return "Enables in-server screensharing.";};
 serverscreensharePlugin.prototype.getVersion = function () {return "₁.₀.₀ ";};
 serverscreensharePlugin.prototype.getAuthor = function () {return "FRIENDLIES";};
-//http://bit.ly/ScreensharePlugin
+
